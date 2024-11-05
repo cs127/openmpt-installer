@@ -12,7 +12,7 @@ DEPS_COMMON=()
 DEPS_INSTALL=("wine" "curl" "jq" "unzip")
 DEPS_UNINSTALL=()
 
-URL_SCRIPTRESOURCES="https://github.com/cs127/openmpt-install-script/raw/master/resources/"
+URL_SCRIPTRESOURCES="https://github.com/cs127/openmpt-installer/raw/master/resources/"
 URL_MPTAPI="https://update.openmpt.org/api/v3/update/"
 URL_MPTICON="https://openmpt.org/img/logo256.png"
 
